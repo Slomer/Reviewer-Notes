@@ -1,4 +1,3 @@
-#Becoming a Udacity Code Reviewer
 ##S.P.E.C.S.
 
 ###Simplify Code:
