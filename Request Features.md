@@ -20,5 +20,5 @@ This will help avoid repeating comments and suggestions when evaluating a projec
 
 * **Grading tool should check if all the required files have been submitted.**
 
-* **Keep track of reviewed projects and how much has been earned** <br>
-This not only helps keep track of the work that has been done, it also keeps the reviewer motivated.
+* **Access to a list of past reviews you've completed, with the ability to access each review** <br>
+This would help keep track of the amount of reviews completed, and let us review our prior work.
