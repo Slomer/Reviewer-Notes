@@ -10,9 +10,6 @@ you've left on the Project Review tab, so most of us don't fill out the Project 
 * **Is there a way to limit the amount of emails I get about available projects to review?** <br>
 Right now you can't adjust the frequency of these emails. You can, however, stop these emails from appearing in your main inbox by creating a filter. You can set the filter to automatically archive all emails from review-support@udacity.com. This will enable you to still view the emails by searching for review-support@udacity.com within your email account.
 
-* **Why did I receive an email with the subject "There are $0 Worth of Projects to Review"?** <br>
-This is a bug in the system.
-
 * **What do I do if the student submission is missing a file?** <br>
 (Thanks to Dallas Frank for elaborating this on the google plus community!) - I always review the project fully and completely unless files are missing that prevent it, which does happen sometimes.  If I can get it running by editing a small code error or without a readme I will still provide full feedback to help the student improve all areas of the project before they resubmit (which they will have to due to critical feedback).
 
