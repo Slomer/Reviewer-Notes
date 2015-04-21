@@ -5,6 +5,9 @@ e.g. For the reviews completed in March 2015, you will be paid in the middle of 
 * **Why aren't there any projects to review?**<br>
 Due to the increase in reviewers it has become very difficult to get projects to review. If your main objective is to make some extra money, you're better off spending your energy elsewhere.
 
+* **How do I know if my review has been approved?**<br>
+In general, you can consider your review automatically approved. You'll hear from Udacity staff if there's an issue with your work.
+
 * **What do I do if the student submission is missing a file?** <br>
 (Thanks to Dallas Frank for elaborating this on the google plus community!) - I always review the project fully and completely unless files are missing that prevent it, which does happen sometimes.  If I can get it running by editing a small code error or without a readme I will still provide full feedback to help the student improve all areas of the project before they resubmit (which they will have to due to critical feedback).
 
