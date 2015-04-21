@@ -3,7 +3,7 @@
 e.g. For the reviews completed in March 2015, you will be paid in the middle of April 2015. To get paid you must be a resident of one of the following countries: *Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chile, China, Costa Rica, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, Emirates, Estonia, Finland, France, French Guiana, Germany, Gibraltar, Greece, Guadeloupe, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Martinique, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Reunion, Romania, San Marino, Singapore, Slovakia, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, United Arab, United Kingdom, United States, Uruguay, Venezuela, Vietnam*
 
 * **Why aren't there any projects to review?**<br>
-Due to the increase in reviewers it's difficult to get projects to review. If your main objective is to make some extra money, you're better off spending your energy elsewhere.
+Due to the increase in reviewers it has become very difficult to get projects to review. If your main objective is to make some extra money, you're better off spending your energy elsewhere.
 
 * **What do I do if the student submission is missing a file?** <br>
 (Thanks to Dallas Frank for elaborating this on the google plus community!) - I always review the project fully and completely unless files are missing that prevent it, which does happen sometimes.  If I can get it running by editing a small code error or without a readme I will still provide full feedback to help the student improve all areas of the project before they resubmit (which they will have to due to critical feedback).
