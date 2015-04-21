@@ -2,11 +2,6 @@
   You will be paid via Paypal in the middle of the month for the reviews done in the prior month.
 e.g. For the reviews completed in March 2015, you will be paid in the middle of April 2015. To get paid you must be a resident of one of the following countries: *Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chile, China, Costa Rica, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, Emirates, Estonia, Finland, France, French Guiana, Germany, Gibraltar, Greece, Guadeloupe, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Martinique, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Reunion, Romania, San Marino, Singapore, Slovakia, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, United Arab, United Kingdom, United States, Uruguay, Venezuela, Vietnam*
 
-* **Why is the comment count wrong on the Code Review tab?** <br>
-  This is a known bug. Whenever you edit a comment, the system counts it as an additional comment. You
-can get the correct comment count by refreshing the page. Refreshing the page will delete any feedback
-you've left on the Project Review tab, so most of us don't fill out the Project Review tab until we're finished with the Code Review tab.
-
 * **What do I do if the student submission is missing a file?** <br>
 (Thanks to Dallas Frank for elaborating this on the google plus community!) - I always review the project fully and completely unless files are missing that prevent it, which does happen sometimes.  If I can get it running by editing a small code error or without a readme I will still provide full feedback to help the student improve all areas of the project before they resubmit (which they will have to due to critical feedback).
 
