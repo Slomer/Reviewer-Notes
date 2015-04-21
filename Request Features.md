@@ -3,9 +3,6 @@ Request your features here. When you make a feature request, tell us how it will
 * **Ability to input payment information within reviewer dashboard** <br>
 Right now we send payment info (Udacity email, Paypal email, Country of Residence) to Janhavi via email. It'd be better if the reviewer dashboard included a simple reviewer profile where we could input these details.
 
-* **Ability to save feedback on Project Review tab** <br>
-If you ever refresh the page while doing a review you will lose any feedback left in the Project Review area. A lot of us refresh to get the correct comment count to show up on the Code Review tab, which means we can't fill out the Project Review tab until we're finished with the Code Review tab. Workflow would be improved with either the ability to save feedback on the Project Review tab or a fix to the comment count bug.
-
 * **Show amount available for each project on reviewer dashboard** <br>
 As of right now, if a project you've selected has no submissions available for review, the project is hidden from the dashboard. It'd be better if the project was still listed on the dashboard and the amount available was set to 0.
 
