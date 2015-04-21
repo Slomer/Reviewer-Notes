@@ -3,6 +3,9 @@ Request your features here. When you make a feature request, tell us how it will
 * **Ability to input payment information within reviewer dashboard** <br>
 Right now we send payment info (Udacity email, Paypal email, Country of Residence) to Janhavi via email. It'd be better if the reviewer dashboard included a simple reviewer profile where we could input these details.
 
+* **Give the reviewer a success message when they submit a review**<br>
+When you complete and submit a review, you're automatically redirected to the dashboard. This often leaves new reviewers puzzled as to whether their review has been accepted or not.
+
 * **Show amount available for each project on reviewer dashboard** <br>
 As of right now, if a project you've selected has no submissions available for review, the project is hidden from the dashboard. It'd be better if the project was still listed on the dashboard and the amount available was set to 0.
 
